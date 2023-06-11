@@ -1,7 +1,6 @@
 ### Hi 👋
 
-#### Resume
-[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://balanced-bonsai-c37.notion.site/9ec5b0eb124d4bc4851228ef5133bc86)
+- **Resume** : [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://balanced-bonsai-c37.notion.site/9ec5b0eb124d4bc4851228ef5133bc86)
 
 <br/>
 
