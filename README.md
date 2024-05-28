@@ -1,10 +1,12 @@
 ### Hi 👋
 
+<!--
 - **Resume** : [<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://unhas.notion.site/39da44c3a57b4766a6c72cf0772ed0a1?pvs=4)
 
 <br/>
 
 Back-end 개발자 박경서입니다. 
+-->
 
 <!--
 **unhas01/unhas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
